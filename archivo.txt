@@ -1,1 +1,8 @@
-HELLOW, MY NAME IS SANDRO CABRERA
+HELLOW, 
+MY NAME:SANDRO CABRERA
+EMAIL: JSCABRERATQGMAIL.COM
+
+git ini : solo se hace una vez y es cuando inciamos el proyecto
+git add y git commit
+git add agrega el archivo al stash (memoria)
+git commit crea un punto en el tiempo con los cambios del archivo 
