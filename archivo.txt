@@ -2,7 +2,11 @@ HELLOW,
 MY NAME:SANDRO CABRERA
 EMAIL: JSCABRERATQGMAIL.COM
 
-git ini : solo se hace una vez y es cuando inciamos el proyecto
+git init : solo se hace una vez y es cuando inciamos el proyecto
+git branch -M main: cambia el nombre de master a main
 git add y git commit
 git add agrega el archivo al stash (memoria)
 git commit crea un punto en el tiempo con los cambios del archivo 
+git remote add origin https://github.com/Sandroc1/codigo-16-25.git: se hace una sola vez
+git remote -v: verifica la conexión local con git.com
+git push origin main: para abrir el repositorio conectado con git.comcd 
